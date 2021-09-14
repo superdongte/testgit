@@ -8,7 +8,7 @@
 </head>
 <body>
 <form method="post" action="/myapp/login">
-ID : <input type="text" name="username"><br>
+ID는테스트다: <input type="text" name="username"><br>
 PWD : <input type="password" name="password"><br>
 <input type="submit" value="로그인전송">
 </form>
