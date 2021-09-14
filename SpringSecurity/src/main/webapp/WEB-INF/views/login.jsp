@@ -10,6 +10,7 @@
 <form method="post" action="/myapp/login">
 ID는테스트다: <input type="text" name="username"><br>
 PWD는 테스트다아아 : <input type="password" name="password"><br>
+빨간줄이라서 안뜨는건가
 <input type="submit" value="로그인전송">
 </form>
 </body>
